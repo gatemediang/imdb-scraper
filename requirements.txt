@@ -1,0 +1,5 @@
+# Minimal IMDB Scraper Requirements
+requests
+beautifulsoup4
+pandas
+lxml

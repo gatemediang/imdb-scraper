@@ -220,6 +220,7 @@ config.py
 secrets.py
 .env.local
 .env.production
+imdb.py
 
 # Cache files
 .cache/
